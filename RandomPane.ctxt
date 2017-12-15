@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=
+comment0.target=RandomPane()
+comment1.params=
+comment1.target=void\ buildUI()
+comment2.params=
+comment2.target=javafx.scene.paint.Color\ randomRgb()
+comment3.params=
+comment3.target=void\ customizeUI()
+comment4.params=
+comment4.target=void\ registerEvents()
+numComments=5
